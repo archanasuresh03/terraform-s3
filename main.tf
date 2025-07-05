@@ -4,7 +4,7 @@ variable "region" {
 }
 
 variable "bucket_name" {
-  default = "s3-bucket-2397925"
+  default = "s3-mybucket-2397925"
 }
 
 variable "index_document" {
